@@ -1,4 +1,6 @@
+
 # Weather Board - Meteoro 🌤️
+![Dashboard](./weather-board.webp)
 
 Un tableau de bord météorologique moderne et élégant développé avec Next.js 14 et TypeScript, offrant une interface utilisateur responsive et des données météorologiques en temps réel.
 
